@@ -3,7 +3,7 @@ Load process and analyse human 32 channel EEG data collect using BrainProductsâ€
 
 Borrows a lot of code from this repo https://github.com/gerontium/big_dots
 
-### Run the scripts in this order:
+### Run the MATLAB scripts in this order:
 
 1. getChannelVars.m
 2. Check4badchans.m

@@ -138,12 +138,12 @@ numch=32;
 rtlim=[0.300 1.500];
 % rtlim=[0.300 1.200];
 
-ch_CPP = [25];
+ch_CPP = [13];
 
-ch_lr{1} = [23];
-ch_lr{2} = [27];
-ch_rl{1} = [27];
-ch_rl{2} = [23];
+ch_lr{1} = [15];
+ch_lr{2} = [20];
+ch_rl{1} = [20];
+ch_rl{2} = [15];
 
 % stim-locked erps
 % ts = -0.500*fs:1.800*fs;
