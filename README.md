@@ -9,3 +9,6 @@ Borrows a lot of code from this repo https://github.com/gerontium/big_dots
 2. Check4badchans.m
 3. runafew.m
 4. ERP_analysis.m
+
+
+Don't forget that you'll have to download the EEGLAB toolbox for matlab because the matlab scripts above use EEGLAB toolbox functions. You can download EEGLAB for free from here: http://sccn.ucsd.edu/eeglab/install.html 
